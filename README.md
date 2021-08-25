@@ -5,7 +5,7 @@ I'm ACultist.
 - ➕ Some additional languages I know are: HTML, CSS.
 - 📓 I’m currently learning Python ...
 - 💬 Contact me on twitter: https://twitter.com/LdmasterK ...
-- Code Editor &nbsp; [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com)
+- 📂 Code Editor: &nbsp; [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com)
  <div>
   <a href="https://github.com/ACultist">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ACultist&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
