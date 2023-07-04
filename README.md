@@ -1,7 +1,7 @@
 ## printf("Hello, World!")
 ## print('Hello, World!')
-I'm ACultist.
-- 💻 C++ Programmer/C-Sharp Game Dev/ ...
+known as ACultist
+- 💻 Programmer
 - ➕ Some additional languages I know are: HTML, CSS, and a bit of Lua language.
 - 📓 I’m currently learning Python ...
 - 💬 Contact me on twitter: https://twitter.com/LdmasterK ...
