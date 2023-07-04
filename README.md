@@ -1,6 +1,6 @@
 ## printf("Hello, World!")
 ## print('Hello, World!')
-known as ACultist
+Known as ACultist.
 - 💻 Programmer
 - ➕ Some additional languages I know are: HTML, CSS, and a bit of Lua language.
 - 📓 I’m currently learning Python ...
